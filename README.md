@@ -31,6 +31,7 @@ This repository serves as a living Game Design Document (GDD) for the concept.
 - [Radio Stations & Satire](#radio-stations--satire) — Tone, media, and cultural flavor
 - [Development Roadmap](#development-roadmap) — Planned expansions for this concept
 - **[Characters & Skill Trees](docs/characters.md)** — Full skill trees and expanded archetypes
+- **[Mechanics & Reputation System](docs/mechanics.md)** — Quad-Reputation System and Smart Wanted Level
 
 ---
 
@@ -139,7 +140,7 @@ A talk-radio station parodying tech-bro culture, venture capitalism, and doomsda
 This repository is a living document. Planned expansions include:
 
 - [x] Expanded character bios, relationship webs, and skill trees → [docs/characters.md](docs/characters.md)
-- [ ] Full Reputation System design (Street vs Online Fame logic)
+- [x] Full Reputation System design (Street vs Online Fame logic) → [docs/mechanics.md](docs/mechanics.md)
 - [ ] Detailed region guides and points of interest
 - [ ] Additional sample missions and heist frameworks
 - [ ] In-world brands, apps, and media satire
