@@ -30,6 +30,7 @@ This repository serves as a living Game Design Document (GDD) for the concept.
 - [Sample Mission](#sample-mission-algorithmic-asset-stripping) — Full multi-phase heist example
 - [Radio Stations & Satire](#radio-stations--satire) — Tone, media, and cultural flavor
 - [Development Roadmap](#development-roadmap) — Planned expansions for this concept
+- **[Characters & Skill Trees](docs/characters.md)** — Full skill trees and expanded archetypes
 
 ---
 
@@ -92,6 +93,8 @@ The world blends classic Rockstar open-world density with a late-2030s near-futu
 * **Special Ability**: Adrenaline Surge. Enters a state of heightened physical combat readiness, taking drastically reduced damage and unleashing devastating close-quarters combat takedowns. His absolute lack of digital footprint also means he takes much longer to accumulate automated police heat.
 * **Starting Stats**: Maximum Street Cred, High Physical Toughness, Zero Digital Footprint.
 
+> 📝 **Full skill trees and expanded details** → [docs/characters.md](docs/characters.md)
+
 ---
 
 ## Sample Mission: "Algorithmic Asset Stripping"
@@ -135,7 +138,7 @@ A talk-radio station parodying tech-bro culture, venture capitalism, and doomsda
 
 This repository is a living document. Planned expansions include:
 
-- [ ] Expanded character bios, relationship webs, and skill trees
+- [x] Expanded character bios, relationship webs, and skill trees → [docs/characters.md](docs/characters.md)
 - [ ] Full Reputation System design (Street vs Online Fame logic)
 - [ ] Detailed region guides and points of interest
 - [ ] Additional sample missions and heist frameworks
