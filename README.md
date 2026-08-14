@@ -1,6 +1,12 @@
 # Grand Theft Auto VII: Concept Deep Dive
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/devops2626/gta7-concept?style=social)](https://github.com/devops2626/gta7-concept/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/devops2626/gta7-concept?style=social)](https://github.com/devops2626/gta7-concept/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/devops2626/gta7-concept)](https://github.com/devops2626/gta7-concept/issues)
+[![GitHub license](https://img.shields.io/github/license/devops2626/gta7-concept)](https://github.com/devops2626/gta7-concept/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/devops2626/gta7-concept)](https://github.com/devops2626/gta7-concept/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/devops2626/gta7-concept)](https://github.com/devops2626/gta7-concept)
 
 **Fan concept / speculative design document**  
 *Not affiliated with Rockstar Games or Take-Two Interactive.*
