@@ -1,5 +1,7 @@
 # Grand Theft Auto VII: Concept Deep Dive
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 **Fan concept / speculative design document**  
 *Not affiliated with Rockstar Games or Take-Two Interactive.*
 
