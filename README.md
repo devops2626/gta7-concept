@@ -1,4 +1,4 @@
-# Grand Theft Auto VII: Concept Deep Dive
+# Grand Theft Auto VII: The Free State of New Vegas
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/devops2626/gta7-concept?style=social)](https://github.com/devops2626/gta7-concept/stargazers)
@@ -13,7 +13,27 @@
 
 ---
 
-## Expanded Map Design: The Free State of New Vegas
+## Overview
+
+**Grand Theft Auto VII** is a high-level creative conceptualization for a future entry in the Rockstar Games franchise. Set in the late 2030s, the game explores a world dominated by artificial intelligence, extreme climate migration, corporate city-states, and the hyper-commodification of digital identity.
+
+Players control three protagonists whose stories collide in the sprawling **Free State of New Vegas** — a neon-drenched desert metropolis where casinos are data centers, streets are surveilled by AI, and offline life has become a radical act of rebellion.
+
+This repository serves as a living Game Design Document (GDD) for the concept.
+
+---
+
+## 📖 Table of Contents
+
+- [World Setting](#world-setting--the-free-state-of-new-vegas) — Map layout, regions, and atmosphere
+- [Protagonists](#protagonists) — Kai "Ghost" Rivera, Dr. Amara Solis, and Marcus "Brick" Hale
+- [Sample Mission](#sample-mission-algorithmic-asset-stripping) — Full multi-phase heist example
+- [Radio Stations & Satire](#radio-stations--satire) — Tone, media, and cultural flavor
+- [Development Roadmap](#development-roadmap) — Planned expansions for this concept
+
+---
+
+## World Setting — The Free State of New Vegas
 
 ```
 +-------------------------------------------------------------+
@@ -48,9 +68,11 @@
 +-------------------------------------------------------------+
 ```
 
+The world blends classic Rockstar open-world density with a late-2030s near-future aesthetic: climate extremes, autonomous infrastructure, influencer culture taken to its logical extreme, and a growing offline underground movement.
+
 ---
 
-## Detailed Protagonist Profiles
+## Protagonists
 
 ### 1. Kai “Ghost” Rivera (The Social Engineer)
 
@@ -72,7 +94,7 @@
 
 ---
 
-## Sample Mission Outline: "Algorithmic Asset Stripping"
+## Sample Mission: "Algorithmic Asset Stripping"
 
 * **Act**: Mid-Game
 * **Objective**: Infiltrate a subterranean server-casino beneath the Luxor-9 Data Resort to steal a physical quantum drive containing the AI's core training weights before a rival corporation deletes it.
@@ -96,7 +118,7 @@ As Brick lifts the quantum drive, the autonomous crime AI recognizes the breach 
 
 ---
 
-## Radio Station Concepts
+## Radio Stations & Satire
 
 ### 98.1 W-WURD (The Offline Frequency)
 Pirate radio broadcasting out of the Dustbowl. Plays raw, gritty underground punk, old-school West Coast hip-hop, and anti-corporate spoken word. DJs constantly rant about solar flares, paper currency, and "the meat-space revolution."
@@ -106,6 +128,21 @@ Ultra-polished synthwave, hyperpop, and EDM curated by hyper-synthetic AI algori
 
 ### Silicon Talk & Spun Out
 A talk-radio station parodying tech-bro culture, venture capitalism, and doomsday preppers. Features unhinged callers debating whether downloading consciousness into a slot machine constitutes an afterlife.
+
+---
+
+## Development Roadmap
+
+This repository is a living document. Planned expansions include:
+
+- [ ] Expanded character bios, relationship webs, and skill trees
+- [ ] Full Reputation System design (Street vs Online Fame logic)
+- [ ] Detailed region guides and points of interest
+- [ ] Additional sample missions and heist frameworks
+- [ ] In-world brands, apps, and media satire
+- [ ] 3-act story structure outline
+
+Contributions, feedback, and expansions are welcome via Issues and Pull Requests.
 
 ---
 
