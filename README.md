@@ -32,6 +32,7 @@ This repository serves as a living Game Design Document (GDD) for the concept.
 - [Development Roadmap](#development-roadmap) — Planned expansions for this concept
 - **[Characters & Skill Trees](docs/characters.md)** — Full skill trees and expanded archetypes
 - **[Mechanics & Reputation System](docs/mechanics.md)** — Quad-Reputation System and Smart Wanted Level
+- **[World & Regions](docs/world.md)** — Detailed regional breakdown and mechanics
 
 ---
 
@@ -69,6 +70,8 @@ This repository serves as a living Game Design Document (GDD) for the concept.
 |   - Denser Coastal Expansion, Corporate Outposts            |
 +-------------------------------------------------------------+
 ```
+
+> 🗺️ **Full regional details, key locations, and mechanics table** → [docs/world.md](docs/world.md)
 
 The world blends classic Rockstar open-world density with a late-2030s near-future aesthetic: climate extremes, autonomous infrastructure, influencer culture taken to its logical extreme, and a growing offline underground movement.
 
@@ -141,7 +144,7 @@ This repository is a living document. Planned expansions include:
 
 - [x] Expanded character bios, relationship webs, and skill trees → [docs/characters.md](docs/characters.md)
 - [x] Full Reputation System design (Street vs Online Fame logic) → [docs/mechanics.md](docs/mechanics.md)
-- [ ] Detailed region guides and points of interest
+- [x] Detailed region guides and points of interest → [docs/world.md](docs/world.md)
 - [ ] Additional sample missions and heist frameworks
 - [ ] In-world brands, apps, and media satire
 - [ ] 3-act story structure outline
